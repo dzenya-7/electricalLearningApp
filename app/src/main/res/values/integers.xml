@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="b_safety">
+        <item>1</item>
+    </integer-array>
+    <integer-array name="b_voltage">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </integer-array>
+    <integer-array name="b_transistor">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="b_resistance">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="b_resistor">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="b_inductance">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="b_circuit">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="b_diode">
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="b_measuring_instruments">
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+    <integer-array name="b_current">
+        <item>0</item>
+        <item>2</item>
+    </integer-array>
+    <integer-array name="b_power_supply">
+        <item>0</item>
+        <item>2</item>
+    </integer-array>
+
+
+
+</resources>
